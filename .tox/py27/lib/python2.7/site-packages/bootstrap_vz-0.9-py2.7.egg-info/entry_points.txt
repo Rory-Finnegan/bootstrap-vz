@@ -1,0 +1,3 @@
+[console_scripts]
+bootstrap-vz = bootstrapvz.base:main
+

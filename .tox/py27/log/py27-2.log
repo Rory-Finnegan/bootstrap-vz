@@ -1,0 +1,77 @@
+actionid=py27
+msg=installpkg
+cmdargs=[local('/home/rory/repos/bootstrap-vz/.tox/py27/bin/pip'), 'install', '--pre', '/home/rory/repos/bootstrap-vz/.tox/dist/bootstrap-vz-0.9.zip']
+env={'PYTHONIOENCODING': 'utf_8', 'WINDOWID': '102760528', 'LESS': '-R -M --shift 5', 'GUILE_LOAD_PATH': '/usr/share/guile/1.8', 'LESSOPEN': '|lesspipe %s', 'CVS_RSH': 'ssh', 'LOGNAME': 'rory', 'USER': 'rory', 'QT_GRAPHICSSYSTEM': 'raster', 'DM_CONTROL': '/var/run/xdmctl', 'HG': '/usr/bin/hg', 'KDE_FULL_SESSION': 'true', 'LANG': 'en_US.UTF-8', 'INFOPATH': '/usr/share/info:/usr/share/gcc-data/x86_64-pc-linux-gnu/4.8.1/info:/usr/share/binutils-data/x86_64-pc-linux-gnu/2.23.2/info', 'TERM': 'xterm', 'SHELL': '/bin/bash', 'XDG_SESSION_COOKIE': 'a695409b42245da74cf223c151d0b10f-1394999323.993427-444846893', 'SESSION_MANAGER': 'local/blue:@/tmp/.ICE-unix/18578,unix/blue:/tmp/.ICE-unix/18578', 'SHLVL': '2', 'GS_LIB': '/home/rory/.fonts', 'CONFIG_PROTECT_MASK': '/etc/gentoo-release /etc/sandbox.d /etc/fonts/fonts.conf /etc/gconf /etc/terminfo /etc/ca-certificates.conf /etc/texmf/web2c /etc/texmf/language.dat.d /etc/texmf/language.def.d /etc/texmf/updmap.d /etc/revdep-rebuild', 'TERMINATOR_UUID': 'urn:uuid:0002de19-0ffe-45f7-bc25-b96f98af8a37', 'KDE_SESSION_VERSION': '4', 'WINDOWPATH': '7', 'GSETTINGS_BACKEND': 'gconf', 'EDITOR': '/bin/nano', 'MANPATH': '/usr/local/share/man:/usr/share/man:/usr/share/gcc-data/x86_64-pc-linux-gnu/4.8.1/man:/usr/share/binutils-data/x86_64-pc-linux-gnu/2.23.2/man:/usr/share/postgresql/man/:/usr/share/postgresql-9.3/man/:/usr/share/postgresql-9.2/man/', 'DESKTOP_SESSION': 'default', 'PYTHONHASHSEED': '842876369', 'HOME': '/home/rory', 'WORKON_HOME': '/home/rory/.virtualenvs', 'KDE_MULTIHEAD': 'false', 'QT_PLUGIN_PATH': '/usr/lib64/kde4/plugins:/home/rory/.kde4/lib64/kde4/plugins/:/usr/lib64/kde4/plugins/', 'KDE_SESSION_UID': '1000', 'XDM_MANAGED': 'method=classic', 'GCC_SPECS': '', 'PATH': '/home/rory/repos/bootstrap-vz/.tox/py27/bin:/usr/local/bin:/usr/bin:/bin:/opt/bin:/usr/x86_64-pc-linux-gnu/gcc-bin/4.8.1:/home/rory/bin:/home/rory/opt/FreeFileSync:/home/rory/opt/AWS-ElasticBeanstalk-CLI-2.3/eb/linux/python2.7:/home/rory/repos/julia', 'RAILS_SECRET_KEY': 'c6300ac33a41177e1d55f3e45fc4c8ee969266798dbf0f296fc9a5f2b2a58fd00a07b1b36c25ddb473aeefa96ae0bc2f887198a4a27e31989f9dbbd6530771cf', 'PRELINK_PATH_MASK': '/usr/lib64/libfreebl3.so:/usr/lib64/libnssdbm3.so:/usr/lib64/libsoftokn3.so', 'GTK2_RC_FILES': '/etc/gtk-2.0/gtkrc:/home/rory/.gtkrc-2.0:/home/rory/.kde4/share/config/gtkrc-2.0', 'VBOX_APP_HOME': '/usr/lib64/virtualbox', 'XDG_CURRENT_DESKTOP': 'KDE', 'RUBYOPT': '-rauto_gem', 'DBUS_SESSION_BUS_ADDRESS': 'unix:abstract=/tmp/dbus-fwPZSR2vvo,guid=730a4ae5e697b995172525095326001f', '_': '/usr/bin/tox', 'VIRTUALENVWRAPPER_PROJECT_FILENAME': '.project', 'ANSIBLE_TRANSPORT': 'ssh', 'XDG_CONFIG_DIRS': '/etc/xdg', 'VIRTUALENVWRAPPER_HOOK_DIR': '/home/rory/.virtualenvs', 'GTK_RC_FILES': '/etc/gtk/gtkrc:/home/rory/.gtkrc:/home/rory/.kde4/share/config/gtkrc', 'XCURSOR_THEME': 'Oxygen_White', 'OLDPWD': '/home/rory/repos/bootstrap-vz/tests', 'DEVISE_SECRET_KEY': 'ad70bbf05c6d89b0286310f07a1aa1bb17d994c0564102afc84ae3ee4fe72c7beb7db07c2599f63fa98bda489e7334a91c08a5df688a25d9371c44e880265184', 'CONFIG_PROTECT': '/usr/share/gnupg/qualified.txt /usr/share/config /usr/share/themes/oxygen-gtk/gtk-2.0', 'XDG_DATA_DIRS': '/usr/share:/usr/local/share:/usr/share', 'PWD': '/home/rory/repos/bootstrap-vz', 'COLORTERM': 'gnome-terminal', 'DISPLAY': ':0', 'MAIL': '/var/mail/rory', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=01;05;37;41:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arj=01;31:*.taz=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lz=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.pdf=00;32:*.ps=00;32:*.txt=00;32:*.patch=00;32:*.diff=00;32:*.log=00;32:*.tex=00;32:*.doc=00;32:*.aac=00;36:*.au=00;36:*.flac=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.axa=00;36:*.oga=00;36:*.spx=00;36:*.xspf=00;36:', 'PAGER': '/usr/bin/less', 'LC_COLLATE': 'POSIX', 'OPENGL_PROFILE': 'xorg-x11'}
+Unpacking ./.tox/dist/bootstrap-vz-0.9.zip
+  Running setup.py (path:/tmp/pip-KQihFM-build/setup.py) egg_info for package from file:///home/rory/repos/bootstrap-vz/.tox/dist/bootstrap-vz-0.9.zip
+    
+Downloading/unpacking termcolor>=1.1.0 (from bootstrap-vz==0.9)
+  Downloading termcolor-1.1.0.tar.gz
+  Running setup.py (path:/home/rory/repos/bootstrap-vz/.tox/py27/build/termcolor/setup.py) egg_info for package termcolor
+    
+Downloading/unpacking fysom>=1.0.15 (from bootstrap-vz==0.9)
+  Downloading fysom-1.0.15.tar.gz
+  Running setup.py (path:/home/rory/repos/bootstrap-vz/.tox/py27/build/fysom/setup.py) egg_info for package fysom
+    
+Downloading/unpacking jsonschema>=2.3.0 (from bootstrap-vz==0.9)
+  Downloading jsonschema-2.3.0-py2.py3-none-any.whl
+Downloading/unpacking pyyaml>=3.10 (from bootstrap-vz==0.9)
+  Running setup.py (path:/home/rory/repos/bootstrap-vz/.tox/py27/build/pyyaml/setup.py) egg_info for package pyyaml
+    
+Downloading/unpacking boto>=2.14.0 (from bootstrap-vz==0.9)
+Downloading/unpacking docopt>=0.6.1 (from bootstrap-vz==0.9)
+  Downloading docopt-0.6.1.tar.gz
+  Running setup.py (path:/home/rory/repos/bootstrap-vz/.tox/py27/build/docopt/setup.py) egg_info for package docopt
+    
+Installing collected packages: termcolor, fysom, jsonschema, pyyaml, boto, docopt, bootstrap-vz
+  Running setup.py install for termcolor
+    
+  Running setup.py install for fysom
+    
+  Running setup.py install for pyyaml
+    checking if libyaml is compilable
+    x86_64-pc-linux-gnu-gcc -pthread -fPIC -I/usr/include/python2.7 -c build/temp.linux-x86_64-2.7/check_libyaml.c -o build/temp.linux-x86_64-2.7/check_libyaml.o
+    checking if libyaml is linkable
+    x86_64-pc-linux-gnu-gcc -pthread build/temp.linux-x86_64-2.7/check_libyaml.o -L/usr/lib64 -lyaml -o build/temp.linux-x86_64-2.7/check_libyaml
+    building '_yaml' extension
+    x86_64-pc-linux-gnu-gcc -pthread -fPIC -I/usr/include/python2.7 -c ext/_yaml.c -o build/temp.linux-x86_64-2.7/ext/_yaml.o
+    In file included from ext/_yaml.c:343:0:
+    ext/_yaml.h:6:0: warning: "PyUnicode_FromString" redefined [enabled by default]
+     #define PyUnicode_FromString(s) PyUnicode_DecodeUTF8((s), strlen(s), "strict")
+     ^
+    In file included from /usr/include/python2.7/Python.h:85:0,
+                     from ext/_yaml.c:16:
+    /usr/include/python2.7/unicodeobject.h:281:0: note: this is the location of the previous definition
+     # define PyUnicode_FromString PyUnicodeUCS4_FromString
+     ^
+    ext/_yaml.c: In function ‘__pyx_pf_5_yaml_get_version_string’:
+    ext/_yaml.c:1346:17: warning: assignment discards ‘const’ qualifier from pointer target type [enabled by default]
+       __pyx_v_value = yaml_get_version_string();
+                     ^
+    ext/_yaml.c: In function ‘__pyx_pf_5_yaml_7CParser___init__’:
+    ext/_yaml.c:2471:5: warning: passing argument 2 of ‘yaml_parser_set_input’ from incompatible pointer type [enabled by default]
+         yaml_parser_set_input((&__pyx_v_self->parser), __pyx_f_5_yaml_input_handler, ((void *)__pyx_v_self));
+         ^
+    In file included from ext/_yaml.h:2:0,
+                     from ext/_yaml.c:343:
+    /usr/include/yaml.h:1367:1: note: expected ‘int (*)(void *, unsigned char *, size_t,  size_t *)’ but argument is of type ‘int (*)(void *, char *, int,  int *)’
+     yaml_parser_set_input(yaml_parser_t *parser,
+     ^
+    ext/_yaml.c: In function ‘__pyx_pf_5_yaml_8CEmitter___init__’:
+    ext/_yaml.c:11721:3: warning: passing argument 2 of ‘yaml_emitter_set_output’ from incompatible pointer type [enabled by default]
+       yaml_emitter_set_output((&__pyx_v_self->emitter), __pyx_f_5_yaml_output_handler, ((void *)__pyx_v_self));
+       ^
+    In file included from ext/_yaml.h:2:0,
+                     from ext/_yaml.c:343:
+    /usr/include/yaml.h:1829:1: note: expected ‘int (*)(void *, unsigned char *, size_t)’ but argument is of type ‘int (*)(void *, char *, int)’
+     yaml_emitter_set_output(yaml_emitter_t *emitter,
+     ^
+    x86_64-pc-linux-gnu-gcc -pthread -shared -Wl,-O1 -Wl,--sort-common -Wl,--as-needed build/temp.linux-x86_64-2.7/ext/_yaml.o -L/usr/lib64 -lyaml -lpython2.7 -o build/lib.linux-x86_64-2.7/_yaml.so
+    
+  Running setup.py install for docopt
+    
+  Running setup.py install for bootstrap-vz
+    
+    Installing bootstrap-vz script to /home/rory/repos/bootstrap-vz/.tox/py27/bin
+Successfully installed termcolor fysom jsonschema pyyaml boto docopt bootstrap-vz
+Cleaning up...

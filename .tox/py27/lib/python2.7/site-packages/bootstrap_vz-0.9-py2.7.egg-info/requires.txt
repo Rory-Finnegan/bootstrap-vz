@@ -1,0 +1,6 @@
+termcolor >= 1.1.0
+fysom >= 1.0.15
+jsonschema >= 2.3.0
+pyyaml >= 3.10
+boto >= 2.14.0
+docopt >= 0.6.1
