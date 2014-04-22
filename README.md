@@ -1,5 +1,6 @@
 bootstrap-vz
 ===========================================
+[![Build Status](https://travis-ci.org/Rory-Finnegan/bootstrap-vz.svg?branch=master)](https://travis-ci.org/Rory-Finnegan/bootstrap-vz)
 
 bootstrap-vz is a bootstrapping framework for Debian.
 It is is specifically targeted at bootstrapping systems for virtualized environments.
